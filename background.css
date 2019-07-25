@@ -1,0 +1,9 @@
+/*! @preserve
+ * Copyright (c) 2019 Aquafortis
+ * Licensed under MPL-2.0 (https://github.com/Aquafortis/legible-cmmtr)
+ */
+div.talk-stream-comment-content.talk-slot-comment-content {
+    color: #414351;
+    font-size: 17px;
+    line-height: 1.5;
+}
