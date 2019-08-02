@@ -9,7 +9,7 @@ if (website.substring(1).match("cmmtr.com")) {
         var style = document.createElement("link");
         style.rel = "stylesheet";
         style.type = "text/css";
-        style.href = browser.runtime.getURL("background.css");
+        style.href = browser.runtime.getURL("readcmmtr.css");
         head.appendChild(style);
     });
 }
