@@ -1,4 +1,5 @@
 # Legible (cmmtr)
+## Firefox Add-on
 ### Making cmmtr comments legible
 
 This Add-on will make cmmtr comments easier to read.
